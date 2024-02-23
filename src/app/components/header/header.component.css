@@ -86,6 +86,7 @@
       position: relative;
       color: var(--text-color);
       font-size: 1.2em;
+      margin: 0 10px 0 10px;
       text-decoration: none;
       font-weight: 600;
 
